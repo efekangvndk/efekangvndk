@@ -1,1 +1,1 @@
-[![MasterHead](file:///Users/e.guvendik/Desktop/Some%20Assetss/gifAssets/coding-gif-unscreen.gif)
+https://drive.google.com/file/d/1ePvDfqdvVrTe1FGfDCFxiDMfWqFr2oDi/view?usp=drive_link
