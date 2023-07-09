@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋 Ben Efekan Güvendik</h1>
 <h3 align="center">Elektrik elektronik mühendisliği öğrencisiyim ve IOS geliştiricisiyim. Swift üzerinde 2 aydır çalışıyor ve sürekli olarak becerilerimi geliştirmeye odaklanıyorum. Mobil uygulama geliştirme konusunda tutkulu ve yeni projeler oluşturmak için her zaman heyecanlıyım. Teknolojiye olan tutkum beni yeni şeyler öğrenmeye ve mevcut bilgilerimi paylaşmaya motive ediyor. Burada GitHub hesabımda projelerimi paylaşıyor ve açık kaynak topluluğuna katkıda bulunmaya çalışıyorum. Eğer sorularınız veya işbirliği fırsatları varsa, bana ulaşmaktan çekinmeyin! İletişim bilgilerim için profilime göz atabilirsiniz. Teşekkürler! Projelerime Repositories kısmından ulaşabilirsiniz.</h3>
 
-![coding-gif-unscreen](https://github.com/efekangvndk/efekangvndk/assets/76440360/3b4848ed-0f33-4ef3-b51e-fc37d8da0813)
+![coding2-unscreen](https://github.com/efekangvndk/efekangvndk/assets/76440360/05fd4629-7ab5-4354-a094-eaee71acba44)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efekangvndk" alt="efekangvndk" /></a> </p>
 
