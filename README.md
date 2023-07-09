@@ -20,3 +20,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=efekangvndk&show_icons=true&locale=en&layout=compact" alt="efekangvndk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efekangvndk&" alt="efekangvndk" /></p>
+
+
+![snake gif](https://github.com/efekangvndk/efekangvndk/blob/output/github-contribution-grid-snake.gif)
