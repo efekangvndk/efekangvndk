@@ -1,10 +1,15 @@
 <h1 align="center">Merhaba 👋 Ben Efekan Güvendik</h1>
 -   Elektrik elektronik mühendisliği öğrencisiyim ve IOS geliştiricisiyim. Swift üzerinde 2 aydır çalışıyor ve sürekli olarak becerilerimi 
 geliştirmeye odaklanıyorum.  Mobil uygulama geliştirme konusunda tutkulu ve yeni projeler oluşturmak için her zaman heyecanlıyım. Teknolojiye olan tutkum beni yeni şeyler öğrenmeye ve mevcut bilgilerimi paylaşmaya motive ediyor. Burada GitHub hesabımda projelerimi paylaşıyor ve açık kaynak topluluğuna katkıda bulunmaya çalışıyorum. Eğer sorularınız veya işbirliği fırsatları varsa, bana ulaşmaktan çekinmeyin! İletişim bilgilerim için profilime göz atabilirsiniz. Teşekkürler!
-<p align="center">![coding2-unscreen](https://github.com/efekangvndk/efekangvndk/assets/76440360/1a2298a7-91b0-4f2b-b398-7acc37b76504)</p>
 
 
- 
+<p align="center">
+  <img src="![coding2-unscreen](https://github.com/efekangvndk/efekangvndk/assets/76440360/e70dce49-6f39-45eb-8a36-01f9ec827219)" alt="gif">
+</p>
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
