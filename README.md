@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/AKjT5kDZMK4wsPXJPk/giphy.gif" alt="Açıklama">
 </p>
 <h1 align="center">Merhaba 👋 Ben Efekan Güvendik</h1>
-<h3 align="center">Elektrik elektronik mühendisliği öğrencisiyim ve IOS geliştiricisiyim. Swift üzerinde 2 aydır çalışıyor ve sürekli olarak becerilerimi geliştirmeye odaklanıyorum. Mobil uygulama geliştirme konusunda tutkulu ve yeni projeler oluşturmak için her zaman heyecanlıyım. Teknolojiye olan tutkum beni yeni şeyler öğrenmeye ve mevcut bilgilerimi paylaşmaya motive ediyor. Burada GitHub hesabımda projelerimi paylaşıyor ve açık kaynak topluluğuna katkıda bulunmaya çalışıyorum. Eğer sorularınız veya işbirliği fırsatları varsa, bana ulaşmaktan çekinmeyin! İletişim bilgilerim için profilime göz atabilirsiniz. Teşekkürler!</h3>
+<h3 align="center">Elektrik elektronik mühendisliği öğrencisiyim ve IOS geliştiricisiyim. Swift üzerinde 6 aydır çalışıyor ve sürekli olarak becerilerimi geliştirmeye odaklanıyorum. Mobil uygulama geliştirme konusunda tutkulu ve yeni projeler oluşturmak için her zaman heyecanlıyım. Teknolojiye olan tutkum beni yeni şeyler öğrenmeye ve mevcut bilgilerimi paylaşmaya motive ediyor. Burada GitHub hesabımda projelerimi paylaşıyor ve açık kaynak topluluğuna katkıda bulunmaya çalışıyorum. Eğer sorularınız veya işbirliği fırsatları varsa, bana ulaşmaktan çekinmeyin! İletişim bilgilerim için profilime göz atabilirsiniz. Teşekkürler!</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm8wN2g4ZzFhdWJkeHp1bHMzMjlxYmN2aGVtYnZhbnN4NWx2c2lxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oxLRigwko76xhJm4uQ/giphy.gif" alt="İkinci GIF Açıklama">
 </p>
